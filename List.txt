@@ -1,0 +1,22 @@
+Đề 1: Một khách sạn cần quản lý khách hàng đặt phòng.
+Đề 2: Ban tổ chức Giải Bơi lội Toàn quốc 2019 cần quản lý các huy chương được trao giải.
+Đề 3: Một chương trình quản lý thông tin sinh viên và điểm các môn học mà họ đăng kí, lưu các thông tin.
+Đề 4: Một chương trình quản lý bán hàng.
+Đề 5: Một công ty vận tải hành khách cần quản lý đội ngũ tài xế, xe khách và các chuyến xe đã thực hiện.
+Đề 6: Một công ty vận tải hành khách cần quản lý đội ngũ tài xế, xe khách và các chuyến xe đã thực hiện(2).
+
+(Đề 7: Một Thư viện cần quản lý việc mượn sách.)
+
+Đề 8: Công ty du lịch Heaven cần quản lý việc tổ chức các tour du lịch. 
+Đề 9: Cửa hàng tạp hóa ABC cần quản lý việc nhập hàng.
+Đề 10: Công ty XYZ cần quản lý số lượng hàng bán cuối ngày của các nhân viên. 
+
+(Đề 11: Công ty Xổ số kiến thiết XYZ cần quản lý việc giao nhận vé số với các đại lý bằng CSDL XML. 
+Đề 12: Một hiệu sách cần quản lý công việc bán sách trên máy tính.)
+
+Đề 13: Trung tâm ngoại ngữ Phước Tiến cần quản lý học viên bằng CSDL XML.
+Đề 14: Một cửa hàng tạp hóa cần quản lý công việc nhập hàng. 
+Đề 15: Một công ty dịch vụ chuyển phát nhanh hàng hóa cần quản lý hàng hóa được vận chuyển, danh sách khách gửi hàng và nơi vận chuyển đến.
+Đề 16: Một cửa hàng cần quản lý thông tin khách thuê sách.
+Đề 17: Một cơ quan cần quản lý các đề án được thực hiện.
+Đề 18: Một cửa hàng tạp hóa cần quản lý thông tin bán hàng. 
